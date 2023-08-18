@@ -1,6 +1,6 @@
 # Thiran Challenge-[API & SQFLite] GithubTrending-App
 
-<img src=https://github.com/thedemonKingx1337/Thiran-Challenge-2-Github-API/assets/43701328/1922ef82-2e25-47cc-9387-291a952ea4cc width="600" height="600"/>
+<img src=https://github.com/thedemonKingx1337/Thiran-Challenge-2-Github-API/assets/43701328/1922ef82-2e25-47cc-9387-291a952ea4cc width="300" height="600"/>
 
 ## Getting Started
 
